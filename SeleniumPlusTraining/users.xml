@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testUsers>
+    <user type="admin">
+        <password>mercury</password>
+        <username>mercury</username>
+    </user>
+    <user type="normal user">
+        <password>askmail29</password>
+        <username>askmail29</username>
+    </user>
+    <user type="normal user">
+        <password>kim</password>
+        <username>kim</username>
+    </user>
+     <user type="admin">
+        <password>mercury</password>
+        <username>mercury</username>
+    </user>
+    <user type="normal user">
+        <password>askmail29</password>
+        <username>askmail29</username>
+    </user>
+    <user type="normal user">
+        <password>kim</password>
+        <username>kim</username>
+    </user>
+</testUsers>
